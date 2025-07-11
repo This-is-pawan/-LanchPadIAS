@@ -692,7 +692,7 @@ h1 span {
 }
 .Question:hover{
 background: rgb(95, 92, 95);
-/* opacity: 0.3; */
+/* opacity: 0.3; */ 
 cursor: pointer;
 color: #222;
 
