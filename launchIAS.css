@@ -154,6 +154,7 @@ nav {
   height: auto;
 }
 .form_center {
+  width:100%;
   display: grid;
   margin: auto;
   box-shadow: 1px 1px 5px pink;
