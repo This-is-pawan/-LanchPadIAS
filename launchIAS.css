@@ -152,7 +152,7 @@ nav {
 /* ################# */
 .container {
   width: 100%;
-  margin:auto;
+  margin:1rem auto;
   height: auto;
 }
 .form_center {
