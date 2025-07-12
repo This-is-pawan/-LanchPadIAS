@@ -155,10 +155,11 @@ nav {
 }
 .form_center {
   display: grid;
-  margin: 20px auto;
+  margin: 20px ;
   box-shadow: 1px 1px 5px pink;
   padding: 20px;
   text-align: center;
+  background:black;
 }
 .country_code {
   display: flex;
@@ -963,7 +964,6 @@ color: #b2b8de;
   }
   .Form {
     width: 100%;
-    border:2px solid black;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
