@@ -155,11 +155,12 @@ nav {
 }
 .form_center {
   display: grid;
-  margin: 20px ;
+  margin: auto;
   box-shadow: 1px 1px 5px pink;
   padding: 20px;
   text-align: center;
   background:black;
+  
 }
 .country_code {
   display: flex;
