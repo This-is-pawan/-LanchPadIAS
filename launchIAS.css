@@ -57,7 +57,7 @@ li {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   border: none;
   transition: all 2s ease;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
   border-radius: 20px;
   color: var(--clr-white);
   background: #9a0000;
