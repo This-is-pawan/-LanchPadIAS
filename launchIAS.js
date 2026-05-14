@@ -106,7 +106,7 @@ function generateCaptcha() {
   let captcha = [];
   for (let i = 0; i < 4; i++) {
     const randomIndex = Math.floor(Math.random() * data.length);
-    console.log(data[randomIndex]);
+    // console.log(data[randomIndex]);
 
     captcha += data[randomIndex];
   }
