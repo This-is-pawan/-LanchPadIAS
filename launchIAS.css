@@ -81,8 +81,8 @@ li {
 
 }
 .show_bar_top{
-  width: 100%;
-  transform: translateX(-100%);
+  width: 90%;
+  transform: translateX(-90%);
 position: absolute;
 z-index: 1;
 background:linear-gradient(rgb(193, 159, 152),rgb(241, 7, 50)) ;
