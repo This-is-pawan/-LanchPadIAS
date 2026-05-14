@@ -81,7 +81,7 @@ li {
 
 }
 .show_bar_top{
-  width: 90%;
+  width: 100%;
   transform: translateX(-90%);
 position: absolute;
 z-index: 1;
